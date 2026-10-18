@@ -1,0 +1,10 @@
+streamlit>=1.36
+numpy
+requests
+fastembed
+pypdf
+python-docx
+
+# ----- ไม่บังคับ: ใช้เมื่อต้องการ "โมเดลในเครื่อง" (หนักมาก อาจเกินทรัพยากร Streamlit Cloud ฟรี) -----
+# transformers
+# torch
